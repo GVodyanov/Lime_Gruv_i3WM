@@ -1,0 +1,9 @@
+configuration {
+ modi: "run";
+ theme: ".config/rofi/lime_gruv.rasi";
+ font: "ibm plex mono 13";
+ combi-modi: "window,drun,ssh";
+ icon-theme: "oomox-monovedek-lcars";
+ show-icons: true;
+ line-margin: 6;
+ }
